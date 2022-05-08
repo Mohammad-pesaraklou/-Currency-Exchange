@@ -6,7 +6,7 @@ const Loader = () => {
     return (
         <div>
             <img src={spinner} alt='loading'/>
-            <h2>Loading...</h2>
+            <h1>Loading...</h1>
         </div>
     );
 };
